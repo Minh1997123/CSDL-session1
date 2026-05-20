@@ -1,5 +1,5 @@
 Ứng dụng Quản lý Tài chính Cá nhân
-<img width="821" height="802" alt="Ứng dụng Quản lý Tài chính Cá nhân" src="https://github.com/user-attachments/assets/6f783aa4-a602-4dc5-a59a-d3332939df45" />
+<img width="821" height="652" alt="Ứng dụng Quản lý Tài chính Cá nhân" src="https://github.com/user-attachments/assets/4613a861-6076-4b9a-a910-000b982be75d" />
 <br>
 Hệ thống Quản lý Lớp học Trực tuyến
 <img width="1281" height="895" alt="Hệ thống Quản lý Lớp học Trực tuyến" src="https://github.com/user-attachments/assets/36dab703-2ce1-4b63-b559-be4bfeae7238" />
